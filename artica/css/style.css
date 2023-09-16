@@ -1,0 +1,161 @@
+.btn{
+	border-radius: 0;
+}
+
+.slider{
+	position: relative;
+	width: 100%;
+}
+
+.slider-theme{
+	position: absolute;
+	top: 260px;
+	left: 380px;
+}
+
+.bg-footer{
+	background-color: #161f32;
+	color: #fff;
+	text-align: center;
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.bg-footer p , .bg-footer a{
+	font-size: 10px;
+}
+
+.form-control{
+	background-color: transparent;
+}
+
+.theme-font{
+	color: #3d506f;
+}
+
+.btn-theme{
+	background-color: #3d506f;
+	border-radius: 0;
+	font-size: 9px;
+	color: #fff;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 6px;
+	margin-right: 6px;
+	margin-bottom: 25px;
+	transition: all 0.2s;
+}
+
+.btn-theme:hover{
+	background-color: #00c7fc;
+	border-radius: 1.2px;
+	font-size: 9px;
+	color: #000;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 19px;
+	margin-left: 6px;
+	margin-right: 6px;
+}
+
+.box{
+	width: 211px;
+	height: 156px;
+	background-color: #161f32;
+	color: #fff;
+	padding: 56px 49px;
+}
+
+.bg-theme{
+	background-color: #161f32;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.btn-theme2{
+	background-color: #3d506f;
+	border-radius: 0;
+	font-size: 9px;
+	color: #fff;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin-left: 6px;
+	margin-right: 6px;
+	margin-bottom: 25px;
+	
+}
+
+.about-theme{
+	background-color: #546278;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	
+	margin-top: 50px;
+}
+
+.about-theme2{
+	background-color: #161f32;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	margin-bottom: 50px;
+	padding-left: 130px;
+	padding-right: 130px;
+}
+
+.skills {
+	background-color: #3d506f;
+	padding: 5px 220px 5px 5px;
+}
+
+.skills1{
+	background-color: #3d506f;
+	padding: 5px 200px 5px 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:768px){
+	
+	.navbar-nav .nav-item{
+		margin-left:0px;
+	}
+	
+}
+
+@media (min-width: 768px){
+.site-section {
+    padding: 48px 0;
+}
+
+}
+
+
+@media (max-width: 767.98px){
+.bg-sm-height {
+    height: 300px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+

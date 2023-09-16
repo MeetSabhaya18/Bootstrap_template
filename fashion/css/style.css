@@ -1,0 +1,163 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family:'Roboto', sans-serif;;
+}
+
+.navbar-nav a{
+	font-size: 10px;
+	color: #fff;
+}
+
+.navbar-nav a:hover{
+	color: #EF76E7;
+}
+
+.navbar-nav .active{
+	color: #EF76E7;
+}
+
+.menu{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+}
+
+.menu img{
+	margin-left: 50px;
+	margin-right: 55px;
+	width: 140px;
+}
+
+.footer-bg{
+	background-color: #392d3b;
+	padding-top: 60px;
+	padding-bottom: 40px;
+	margin-top: 50px;
+}
+
+.deals{
+	margin-top: 90px;
+}
+
+.t-shirt{
+	padding-top: 75px;
+}
+
+.summer{
+	position: relative;
+}
+
+.new{
+	position: absolute;
+	width: 100%;
+	top: 60px;
+	left: 45px;
+}
+
+.summer2{
+	position: relative;
+}
+
+.new2{
+	position: absolute;
+	width: 50%;
+	top: 60px;
+    left: 560px;
+}
+
+.btn-stock{
+  color: #f8f9fa;
+  background-color: transparent;
+  background-image: none;
+  border-color: #f8f9fa; 
+  font-size: 10px;
+  margin-top: 10px;
+}
+
+.btn{
+	border-radius:0px;
+}
+
+.btn-theme.btn{
+	background-color: #392d3b;
+	border-radius: 50px;
+}
+
+.contact-photo{
+	position: absolute;
+	width: 100%;
+}
+
+.contact-form{
+	position: relative;
+	top: 160px;
+	left: 0;
+}
+
+.form-control2{
+	background-color: transparent;
+	
+}
+
+.box{
+	width: 495px;
+	height: 425px;
+	background-color: #f2f2f2;
+	margin: 20px auto 30px auto;
+	padding: 60px;
+}
+
+.box-border{
+	border: 0.5px #000 solid;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.box-border2{
+	border: 1px #000 solid;
+}
+
+
+
+.box-btn{
+	background-color: #6159f8;
+	padding: 5px 200px;
+	color: #fff;
+}
+
+.privacy{
+	border: 1px #000 solid;
+}
+
+.privacy-box{
+	width: 519px;
+	height: 362px;
+	background-color: #46a3bf;
+	padding: 20px 80px;
+}
+
+.privacy-box2{
+	width: 519px;
+	height: 362px;
+	background-color: #dc5352;
+	padding: 20px 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

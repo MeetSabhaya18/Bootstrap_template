@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family:'Teko', sans-serif;
+}
+
+p{
+	font-size: 16px;
+}
+
+.logo img{
+	width: 180px;
+}
+
+.header{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
